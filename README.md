@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> This project is based on the data of a company which is the largest online loan marketplace, facilitating different loans and where borrowers can easily access lower interest rate loans through a fast online interface. Here, we have analyzed driving factors behind loan default which can be utilized by the company for its portfolio and risk assessment.
 
 
 ## Table of Contents
