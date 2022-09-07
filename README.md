@@ -14,7 +14,7 @@
 - This project is meant for a financial company. This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
 - In this, we will be helping the company in taking correct data-driven decisions for approving the loan applications.
 - When this company receives any loan application, then they have to take the decision on whether to accept it or not. If the company doesn't accept the loan application for the customer who is likely to repay, then the company faces business loss. On the other hand, if the company accepts the loan application of a person and later on, he defaults then the company will go through financial loss. So in this project, we will analyze different driving variables behind the loan default which can be helpful for the company to mitigate the risks involved.
-- For this analysis, we have taken the loan data of all the loans issued through the time period 2007 t0 2011.
+- For this analysis, we have taken the loan data of all the loans issued through the time period 2007 to 2011.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
