@@ -46,14 +46,14 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+### References
+- https://matplotlib.org/stable/gallery/text_labels_and_annotations/annotation_demo.html
+- https://www.geeksforgeeks.org/exploratory-data-analysis-eda-types-and-tools/
+- https://www.python-graph-gallery.com/stacked-and-percent-stacked-barplot
 
 
 ## Contact
-Created by [@swarajoneil] - feel free to contact me!
+Created by [@swarajoneil] - feel free to contact me.
 
 
 <!-- Optional -->
